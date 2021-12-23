@@ -245,6 +245,15 @@ nav ul li:hover a {
     transition: all 0.5s;
 }
 
+.showcase__text p:nth-child(1) {
+    color: #D0C7C8;
+}
+
+.showcase__text p:nth-child(2) {
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
 .showcase__icon {
     position: absolute;
     top: 8%;
